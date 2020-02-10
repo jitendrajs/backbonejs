@@ -1,2 +1,3 @@
 # backbonejs
-This repo is to learn backbone js
+This repo is to learn backbone js and advanced javascripts
+
